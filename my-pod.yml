@@ -10,4 +10,5 @@ spec:
   - name: nginx-container
     image: nginx:latest
     command: ['sh', '-c', 'echo Hello world && sleep 3600']
-                        
+    #tung:wq!
+    #
